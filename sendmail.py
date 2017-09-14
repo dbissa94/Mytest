@@ -14,7 +14,7 @@ app.config.update(dict(
     MAIL_USE_TLS = True,
     MAIL_USE_SSL = False,
     MAIL_USERNAME = 'dbissa94@gmail.com',
-    MAIL_PASSWORD = 'Divyang@27011994',
+    MAIL_PASSWORD = 'test',
 ))
 mail = Mail(app)
 
